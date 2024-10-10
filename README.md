@@ -3,6 +3,7 @@
 
 ### Montreal
 * [Points of Interest from OpenStreetMap [2024]](mtl_poi_osm2024.zip) 
+* [Points of Interest from Foursquare [2022]](foursquare_POI_montreal2022.zip) *[password protected]*
 
 ### Washington, D.C.
 * [Points of Interest from Foursquare [2024]](foursquare_POI_washingtondc2024.zip) *[password protected]*
