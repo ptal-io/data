@@ -76,9 +76,6 @@ Command to rejoin the file splits:
 #### Washington, D.C.
 * [Points of Interest from Foursquare [2024]](foursquare_POI_washingtondc2024.zip) *[password protected]*
 
-
-
----
 Code to encrypt file before splitting:
 
 	openssl enc -aes-256-cbc -pbkdf2 -iter 100000 -e file.tar.gz > file.tar.gz.enc
